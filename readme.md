@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de hacker de los que hay pocos.
 
-**Alberto Casero**
+**Alberto Casero**, Larry Plotter Lover
 
