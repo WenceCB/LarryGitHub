@@ -2,6 +2,6 @@
 
 Esta serie de libros cuentan la historia de hacker de los que hay pocos.
 
-**Alberto Casero**, Git & Larry Plotter Lover
+**Alberto Casero**
 
 
